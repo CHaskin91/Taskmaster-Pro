@@ -1,8 +1,8 @@
 # Taskmaster-Pro
 
 ## Links
-Live URL [https://chaskin91.github.io/Taskmaster-Pro/]
-Github Repo [https://github.com/CHaskin91/Taskmaster-Pro]
+* Live URL [https://chaskin91.github.io/Taskmaster-Pro/]
+* Github Repo [https://github.com/CHaskin91/Taskmaster-Pro]
 
 ## Lesson 1
 * Learned to consult documentation when faced with new libraries.
@@ -15,3 +15,8 @@ Github Repo [https://github.com/CHaskin91/Taskmaster-Pro]
 * Created responsive layouts using Bootstrap's grid system.
 * Used the UI components Bootstrap provides us.
 * Leveraged Bootstrap's utility classes to avoid creating unnecessary custom CSS.
+
+## Lesson 3
+* Incorporated additional CDN links into a project.
+* Quickly learned new tools by skimming the documentation.
+* Enabled draggable elements by using jQuery extensions.
