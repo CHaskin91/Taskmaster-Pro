@@ -20,3 +20,9 @@
 * Incorporated additional CDN links into a project.
 * Quickly learned new tools by skimming the documentation.
 * Enabled draggable elements by using jQuery extensions.
+
+## Lesson 4
+* Learn how to use jQuery UI's Datepicker widget with date-input form fields.
+* Implement another third-party JavaScript library using a CDN link.
+* Learn how JavaScript natively handles date and time functionality.
+* Use Moment.js to make handling JavaScript date and time functionality a lot easier.
