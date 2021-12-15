@@ -26,3 +26,9 @@
 * Implement another third-party JavaScript library using a CDN link.
 * Learn how JavaScript natively handles date and time functionality.
 * Use Moment.js to make handling JavaScript date and time functionality a lot easier.
+
+## Lesson 5
+* Use JavaScript timer functions to schedule/automate logic.
+* Use a font library to implement custom fonts.
+* Use an icon library to implement font icons.
+* Override default Bootstrap styles using custom CSS.
